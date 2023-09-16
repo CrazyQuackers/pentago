@@ -1,0 +1,40 @@
+F:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.exe.config
+F:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.exe
+F:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.pdb
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csprojAssemblyReference.cache
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.Form1.resources
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.exe
+F:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.pdb
+E:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.exe.config
+E:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.exe
+E:\תורת המשחקים\Pentago\Pentago\bin\Debug\Pentago.pdb
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csprojAssemblyReference.cache
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.Form1.resources
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.exe
+E:\תורת המשחקים\Pentago\Pentago\obj\Debug\Pentago.pdb
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.csprojAssemblyReference.cache
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.Form1.resources
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\10User\Documents\Visual Studio 2019\My Project\Pentago\Pentago\obj\Debug\Pentago.pdb
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.csprojAssemblyReference.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.Form1.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.Properties.Resources.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.csproj.GenerateResource.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\Pentago\Pentago\obj\Debug\Pentago.pdb
